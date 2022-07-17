@@ -1,0 +1,70 @@
+1.
+Machine Learning in finance helps in portfolio management, algorithmic trading, loan underwriting, and fraud detection. However, 
+future applications of Machine Learning in finance will include Chatbots and other conversational interfaces for security,
+ customer service, and sentiment analysis.
+2.
+Learning is the process of acquiring new understanding, knowledge, behaviors, skills, values, attitudes, and preferences.
+ The ability to learn is possessed by humans, animals,
+and some machines; there is also evidence for some kind of learning in certain plants.
+An expert system is a computer program that is designed to solve complex problems and to provide decision-making ability like a human expert.
+ It performs this by extracting knowledge from its knowledge base using the reasoning and inference rules according to the user queries.
+3.
+It uses computer algorithms that improve their efficiency automatically through experience.
+ There are primarily three types of machine learning: Supervised, Unsupervised, and Reinforcement Learning.
+4.
+Supervised Machine Learning.
+Unsupervised Machine Learning.
+Semi-Supervised Machine Learning.
+Reinforcement Learning.
+5.
+ Machine learning problem is well-posed if a solution to it exists, if that solution is unique,
+ and if that solution depends on the data / experience but it is not sensitive to (reasonably small) changes in the data / experience.
+A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P,
+ if its performance in tasks T, as measured by P, improves with experience E.
+6.
+Machine learning is now seen as a silver bullet for solving all problems, but sometimes it is not the answer.
+ “If a typical person can do a mental task with less than one second of thought, we can probably automate it using AI either now or in the near future.”
+7.
+                      Platform	            Written in language
+
+Scikit Learn,	Linux, Mac OS, Windows	  Python, Cython, C, C++
+PyTorch	Linux,  Mac OS, Windows	Python,   C++, CUDA
+TensorFlow,	Linux, Mac OS, Windows	  Python, C++, CUDA
+Weka	Linux,  Mac OS, Windows	Java
+ 8.
+Supervised learning, also known as supervised machine learning,
+ is a subcategory of machine learning and artificial intelligence. 
+It is defined by its use of labeled datasets to train algorithms that to classify data or predict outcomes accurately
+wheras different forms are:Gaussian Naive Bayes. Decision Trees. Support Vector Machine (SVM) Random Forest.
+9.
+The main difference between supervised and unsupervised learning: Labeled data. The main distinction between the two approaches is the use of labeled datasets. 
+To put it simply, supervised learning uses labeled input and output data, while an unsupervised learning algorithm does not.
+10.
+Machine learning (ML) is a type of artificial intelligence (AI) that allows software applications to become more accurate at predicting outcomes
+ without being explicitly programmed to do so.
+ Machine learning algorithms use historical data as input to predict new output values.
+a.
+illions of engineers and scientists worldwide use MATLAB for a range of applications, in industry and academia, including deep learning and machine learning,
+ signal processing and communications, 
+image and video processing, control systems, test and measurement, computational finance, and computational biology.
+i.
+Deep learning models can interpret medical images like X-ray, MRI scan, CT scan, etc., to perform diagnosis.
+ The algorithms can detect any risk and flag anomalies in the medical images. 
+Deep learning is extensively used in detecting cancer.
+ii.
+ market basket analysis is generally used in retail. It is based on the idea that most purchases are impulse buys,
+and the analysis attempts to predict what a customer might have purchased had the idea occurred to them.
+iii.
+Simple linear regression is a regression model that estimates 
+the relationship between one independent variable and one dependent variable using a straight line. 
+11.
+Abstraction reduces complexity by hiding irrelevant detail,
+ generalization reduces complexity by replacing multiple entities which perform similar functions with a single construct.
+i.
+Learning with guidaince includes various algorithms such as Linear Regression,
+ Logistic Regression, Support Vector Machine, Multi-class Classification, Decision tree, Bayesian Logic, etc.
+whereas,It includes various algorithms such as Clustering, KNN, and Apriori algorithm.
+ii.
+Classification is the task of predicting a discrete class label.
+Regression is the task of predicting a continuous quantity.
+
